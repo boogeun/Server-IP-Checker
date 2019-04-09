@@ -1,2 +1,3 @@
-# Server-IP-Checker
-[WordPress Plugin] Server IP Checker
+# Server IP Checker
+사이트 제작시 개발서버와 실서버 구분을 위해
+관리자 화면 페이지 상단과 사용자화면 우측 하단에 서버 IP를 표시합니다.
